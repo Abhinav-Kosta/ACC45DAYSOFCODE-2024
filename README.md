@@ -87,3 +87,13 @@ I can be placed before V (5) and X (10) to make 4 and 9.
 X can be placed before L (50) and C (100) to make 40 and 90. 
 C can be placed before D (500) and M (1000) to make 400 and 900.
 Given a roman numeral, convert it to an integer.
+
+DAY 4:
+The Three Topics
+The Chef has reached the finals of the Annual Inter-school Declamation contest.
+For the finals, students were asked to prepare 10 topics. However, Chef was only able to prepare three topics, numbered A, B and C — he is totally blank about the other topics. This means Chef can only win the contest if he gets the topics A, B,or C to speak about.
+On the contest day, Chef gets topic X. Determine whether Chef has any chances of winning the competition.
+
+Print "Yes" if it is possible for Chef to win the contest, else print "No".
+
+You may print each character of the string in either uppercase or lowercase (for example, the strings yEs, yes, Yes, and YES will all be treated as identical).
