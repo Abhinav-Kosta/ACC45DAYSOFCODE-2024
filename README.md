@@ -97,3 +97,21 @@ On the contest day, Chef gets topic X. Determine whether Chef has any chances of
 Print "Yes" if it is possible for Chef to win the contest, else print "No".
 
 You may print each character of the string in either uppercase or lowercase (for example, the strings yEs, yes, Yes, and YES will all be treated as identical).
+
+DAY 5:
+Water Filling
+Chef has three water bottles. At any point, if at least two of them are empty, she will fill them up. But if at most one bottle is empty, she will wait, and not fill them up now.
+You are given three integers - B1, B2, and B3.
+If B1 = 1, it means that the first bottle is full.
+If B1 = 0, it means that the first bottle is empty.
+Similarly, B2 denotes whether the second bottle is full or empty, and B3
+denotes it for the third bottle.
+Output "Water filling time", if Chef has to fill the bottles now. If not, output "Not now".
+
+Elections in Chefland
+There are 101 citizens in Chefland. It is election time in Chefland and 3 parties, A,B, and C are contesting the elections. Party A receives X(a) votes, party B receives X(b) votes, and party C receives X(c) votes.
+The constitution of Chefland requires a particular party to receive a clear majority to form the government. A party is said to have a clear majority if it receives strictly greater than 50 votes.
+If any party has a clear majority, print the winning party (A, B or C). Otherwise, print NOTA.
+
+Rotate Array:
+Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
