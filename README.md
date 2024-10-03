@@ -126,3 +126,19 @@ Maximum points of Problem A reduce by 2 points .
 Maximum points of Problem B reduce by 4 points.
 It is known that Chef requires X minutes to solve Problem A correctly and Y minutes to solve Problem B correctly.
 Find the maximum number of points Chef can score if he optimally decides the order of attempting both the problems.
+
+Hostel Room
+There are initially X people in a room.
+
+You are given an array A of length N which describes the following events:
+
+If A[i] ≥ 0, then A[i] people enter the room at the i-th minute.
+For example, if A[2] = 3, then 3 people enter the room at the 2nd minute.
+
+If A[i] < 0, then |A[i]| people leave the room at the i-th minute.
+Here |A[i]| denotes the absolute value of A[i].
+For example, if A[4] = -2, then 2 people leave the room at the 4th minute.
+
+Determine the maximum number of people in the room at any moment of time.
+
+It is guaranteed in the input that at any moment, the number of people in the room does not become negative.
