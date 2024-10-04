@@ -142,3 +142,22 @@ For example, if A[4] = -2, then 2 people leave the room at the 4th minute.
 Determine the maximum number of people in the room at any moment of time.
 
 It is guaranteed in the input that at any moment, the number of people in the room does not become negative.
+
+DAY 7:
+Janmansh and Assignments
+Janmansh has to submit 3 assignments for Chingari before 10 PM. He starts working on the assignments at X PM. Each assignment takes him 1 hour to complete.
+
+Can you determine whether Janmansh will be able to finish all the assignments on time?
+
+ATM Machine
+Read problem statements in: Bengali, Mandarin Chinese, Russian, and Vietnamese.
+There is an ATM machine that initially contains K units of money. There are N people (numbered from 1 to N) who want to withdraw money. For each valid person i (1 ≤ i ≤ N), the i-th person wants to withdraw A₁, A₂, ..., Aₙ units of money.
+
+The people try to withdraw money one by one, in increasing order of their indices. If the ATM has at least the required amount of money, it will dispense the required amount. Otherwise, the machine will throw an error and not dispense any money. In such cases, the person will return home directly without attempting to withdraw again.
+
+For each person, determine whether they will successfully withdraw the required amount of money or not.
+
+Jump Game:
+ou are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
+
+Return true if you can reach the last index, or false otherwise.
