@@ -161,3 +161,25 @@ Jump Game:
 ou are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
 
 Return true if you can reach the last index, or false otherwise.
+
+DAY 8:
+Monopoly
+There are 4 companies in the markets of Chefland, A, B, C, and D.
+This year,
+Company A made a profit of P lakh rupees,
+Company B made a profit of Q lakh rupees,
+Company C made a profit of R lakh rupees,
+Company D made a profit of S lakh rupees.
+There is said to be a monopoly in the market if the profit made by one company is strictly greater than the sum of profits made by all other companies.
+Determine if there is a monopoly in the market or not.
+
+Problem: Pseudo-Sorted Array
+An array A of length N is said to be pseudo-sorted if it can be made non-decreasing by performing at most one operation:
+
+Operation:
+Choose an index i such that 1 ≤ i ≤ N−1 and swap A[i] and A[i+1].
+Task:
+Given an array A, determine if it is pseudo-sorted or not.
+
+Find the Index of the First Occurrence in a String:
+Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
