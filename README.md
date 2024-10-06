@@ -183,3 +183,9 @@ Given an array A, determine if it is pseudo-sorted or not.
 
 Find the Index of the First Occurrence in a String:
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+DAY 9:
+Plus One
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
+
+Increment the large integer by one and return the resulting array of digits.
