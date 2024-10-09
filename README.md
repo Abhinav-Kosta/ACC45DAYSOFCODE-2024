@@ -205,3 +205,21 @@ Permutations
 Given an array nums of distinct integers, return all the possible 
 permutations.
 You can return the answer in any order.
+
+DAY 12:
+Flip the cards
+There are N cards on a table, out of which X cards are face-up and the
+remaining are face-down.
+In one operation, we can do the following:
+Select any one card and flip it (i.e. if it was initially face-up, after
+the operation, it will be face-down and vice versa).
+What is the minimum number of operations we must perform so that all the
+cards face in the same direction
+(i.e. either all are face-up or all are face-down)?
+
+Tanu and Head-bob
+Tanu has got interested in signs and gestures that we use for communication. One such gesture is the head-bob.
+When we want to signal "Yes" to someone, we move the head up-and-down. For "No", the head is moved left-and-right, rotating about the vertical axis.
+There is a peculiar way of gesturing "Yes", commonly seen in India, by moving head sideways (rotating about the forward-back axis). This is called the Indian head-bob.
+
+Tanu observed many people on the railways station, and made a list of gestures that they made. Usual "Yes" gesture is recorded as "Y", no as "N" and Indian "Yes" gesture as "I". (Assume no foreigner uses the Indian "Yes" gesture and vice-versa). Identify which of them were Indians, which were not Indian, and which one you cannot be sure about.
