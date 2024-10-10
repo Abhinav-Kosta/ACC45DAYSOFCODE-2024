@@ -223,3 +223,8 @@ When we want to signal "Yes" to someone, we move the head up-and-down. For "No",
 There is a peculiar way of gesturing "Yes", commonly seen in India, by moving head sideways (rotating about the forward-back axis). This is called the Indian head-bob.
 
 Tanu observed many people on the railways station, and made a list of gestures that they made. Usual "Yes" gesture is recorded as "Y", no as "N" and Indian "Yes" gesture as "I". (Assume no foreigner uses the Indian "Yes" gesture and vice-versa). Identify which of them were Indians, which were not Indian, and which one you cannot be sure about.
+
+DAY 13:
+Expert Setter
+A problem setter is called an expert if at least 50% of their problems are approved by Chef.
+Munchy submitted X problems for approval. If Y problems out of those were approved, find whether Munchy is an expert or not.
