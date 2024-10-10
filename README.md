@@ -228,3 +228,10 @@ DAY 13:
 Expert Setter
 A problem setter is called an expert if at least 50% of their problems are approved by Chef.
 Munchy submitted X problems for approval. If Y problems out of those were approved, find whether Munchy is an expert or not.
+
+Card Removal
+You have N cards placed in front of you on the table. The ith card has the number Ai written on it.
+
+In one move, you can remove any one card from the remaining cards on the table.
+
+Find the minimum number of moves required so that all the cards remaining on the table have the same number written on them.
