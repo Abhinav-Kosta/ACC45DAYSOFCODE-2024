@@ -235,3 +235,21 @@ You have N cards placed in front of you on the table. The ith card has the numbe
 In one move, you can remove any one card from the remaining cards on the table.
 
 Find the minimum number of moves required so that all the cards remaining on the table have the same number written on them.
+
+DAY 14:
+Maximise the Tastiness
+Chef is making a dish that consists of exactly two ingredients. He has four ingredients A,B,C and D with tastiness a,b,c,and d respectively. He can use either A or B as the first ingredient and either C or D as the second ingredient.
+The tastiness of a dish is the sum of tastiness of its ingredients. Find the maximum possible tastiness of the dish that the chef can prepare.
+
+Ratio by 2
+You are given two positive integers, X and Y. In a single operation, you can increase or decrease the value of either integer by 1.
+Your task is to find the minimum number of operations required to ensure that either:
+X is at least twice as large as Y (i.e., X≥2×Y), or
+Y is at least twice as large as X (i.e., Y≥2×X).
+
+Linked List Cycle
+iven head, the head of a linked list, determine if the linked list has a cycle in it.
+
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.
+
+Return true if there is a cycle in the linked list. Otherwise, return false.
