@@ -294,3 +294,9 @@ For example, consider a case when
 N = 4, A=10 and B=5. The first round will consist of two matches and will take 10 minutes to complete. Two teams move on to round 2 and the other two get eliminated. Then there is a break of 5 minutes. The two remaining teams compete in round 2, which lasts 10 more minutes. The team that wins is declared the overall winner. Thus the total time taken is 10+5+10=25 minutes.
 
 Can you help the organizers determine how long the event will take to finish?
+
+DAY 19:
+Test Score
+In a test, there are N problems, each carrying X marks.
+In each problem, Chef either received X marks or 0 marks.
+Determine whether is it possible for Chef to achieve exactly Y marks.
