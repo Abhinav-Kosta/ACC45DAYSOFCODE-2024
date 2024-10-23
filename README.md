@@ -309,3 +309,18 @@ He was offered deals from two investors. The first investor offers A dollars for
 
 For example, if the first investor offers 300 dollars for 10% of the company, then the first investor's valuation of the company is 3000 dollars since 10% of 3000 = 300. 
 If the second investor offers 500 dollars for 20% of the company, then the second investor's valuation of the company is 2500 dollars since 20% of 2500 =500.
+
+DAY 21:
+IPL and RCB
+It's IPL time and as usual RCB are finding it tough to qualify for playoffs. RCB needs a minimum of X more points to qualify for playoffs in their remaining Y matches. A win, tie and loss in a match will yield 2,1,0 points respectively to a team.
+
+You being a true RCB supporter want to find the minimum number of matches RCB needs to win to qualify for playoffs. It is guaranteed that RCB will qualify for playoffs if they win all their remaining Y matches.
+
+Single-use Attack
+Chef is playing a video game, and is now fighting the final boss.
+
+The boss has H health points. Each attack of Chef reduces the health of the boss by X.
+Chef also has a special attack that can be used at most once, and will decrease the health of the boss by Y.
+
+Chef wins when the health of the boss is ≤0.
+What is the minimum number of attacks needed by Chef to win?
