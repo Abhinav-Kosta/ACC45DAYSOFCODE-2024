@@ -324,3 +324,13 @@ Chef also has a special attack that can be used at most once, and will decrease 
 
 Chef wins when the health of the boss is ≤0.
 What is the minimum number of attacks needed by Chef to win?
+
+DAY 22:
+Degree of Polynomial
+In mathematics, the degree of polynomials in one variable is the highest power of the variable in the algebraic expression with non-zero coefficient.
+
+Chef has a polynomial in one variable x with N terms.
+
+Find the degree of the polynomial.
+
+Note: It is guaranteed that there exists at least one term with non-zero coefficient.
