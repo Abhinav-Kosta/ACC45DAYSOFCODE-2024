@@ -334,3 +334,11 @@ Chef has a polynomial in one variable x with N terms.
 Find the degree of the polynomial.
 
 Note: It is guaranteed that there exists at least one term with non-zero coefficient.
+
+DAY 23:
+Remove Bad elements
+Chef has an array A of length N.
+
+In one operation, Chef can remove any one element from the array.
+
+Determine the minimum number of operations required to make all the elements same.
