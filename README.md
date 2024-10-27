@@ -353,3 +353,9 @@ Dracula dines at a mysterious restaurant that changes its spooky menu daily. He 
 Today is Monday, so he wishes to calculate how many times he can indulge in his favourite menu in the next N days (including today) before Halloween.
 
 Note that Dracula follows the standard 7-day calendar, with Tuesday immediately following Monday.
+
+DAY 25:
+Having already mastered cooking, Chef has now decided to learn how to play the guitar. Often while trying to play a song, Chef has to skip several strings to reach the string he has to pluck. Eg. he may have to pluck the 1st  string and then the 6th  string. This is easy in guitars with only 6 strings. 
+However, Chef is playing a guitar with 10 raise to 6 strings. In order to simplify his task, Chef wants you to write a program that will tell him the total number of strings he has to skip while playing his favourite song.
+
+This is how guitar strings are numbered (In ascending order from right to left). Eg. to switch from string 1 to 6, Chef would have to skip 4 strings (2,3,4,5).
