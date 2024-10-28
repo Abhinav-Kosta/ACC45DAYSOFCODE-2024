@@ -359,3 +359,11 @@ Having already mastered cooking, Chef has now decided to learn how to play the g
 However, Chef is playing a guitar with 10 raise to 6 strings. In order to simplify his task, Chef wants you to write a program that will tell him the total number of strings he has to skip while playing his favourite song.
 
 This is how guitar strings are numbered (In ascending order from right to left). Eg. to switch from string 1 to 6, Chef would have to skip 4 strings (2,3,4,5).
+
+DAY 26:
+Buy1-Get1
+One day Alice visited Byteland to purchase jewels for her upcoming wedding anniversary.
+
+In Byteland, every Jewelry shop has their own discount methods to attract the customers. One discount method called Buy1-Get1 caught Alice's attention. That is, Alice buys one jewel, then she can get one additional jewel with the same color without charge by Buy1-Get1.
+
+Alice lists the needed jewels as a string S, each letter denotes one jewel, and the same letters denote the same colors of jewels, and the different letters denote the different colors of jewels. The cost of each jewel is 1. Your task is to calculate the minimum cost for getting all the jewels Alice listed.
