@@ -376,3 +376,11 @@ Alice and Bob are meeting after a long time. As usual they love to play some mat
 Help Bob accomplish this task by writing a computer program which will calculate whether the number is prime or not.
 
 Note that 1 is not a prime number.
+
+DAY 28:
+Reach fast
+Chef is standing at coordinate A while Chefina is standing at coordinate B.
+
+In one step, Chef can increase or decrease his coordinate by at most K.
+
+Determine the minimum number of steps required by Chef to reach Chefina.
