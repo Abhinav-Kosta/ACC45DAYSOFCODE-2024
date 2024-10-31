@@ -384,3 +384,18 @@ Chef is standing at coordinate A while Chefina is standing at coordinate B.
 In one step, Chef can increase or decrease his coordinate by at most K.
 
 Determine the minimum number of steps required by Chef to reach Chefina.
+
+DAY 29:
+Pascal's Triangle
+Given an integer numRows, return the first numRows of Pascal's triangle.
+In Pascal's triangle, each number is the sum of the two numbers directly above it.
+
+It is My Serve
+Alice and Bob are playing a game of table tennis where irrespective of the point scored, every player makes 2 consecutive serves before the service changes. Alice makes the first serve of the match. Therefore the first 2 serves will be made by Alice, then the next 2 serves will be made by Bob and so on.
+
+Ups and Downs
+You will be given a zero-indexed array A. You need to rearrange its elements in such a way that the following conditions are satisfied:
+
+A[i] ≤ A[i+1] if i is even.
+A[i] ≥ A[i+1] if i is odd.
+In other words the following inequality should hold: A[0] ≤ A[1] ≥ A[2] ≤ A[3] ≥ A[4], and so on. Operations ≤ and ≥ should alter.
