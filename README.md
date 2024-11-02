@@ -403,3 +403,12 @@ In other words the following inequality should hold: A[0] ≤ A[1] ≥ A[2] ≤ 
 DAY 30:
 Is the Score Consistent
 Chef is watching a football match. The current score is A:B, that is, team 1 has scored A goals and team 2 has scored B goals. Chef wonders if it is possible for the score to become C:D at a later point in the game (i.e. team 1 has scored C goals and team 2 has scored D goals). Can you help Chef by answering his question?
+
+DAY 31:
+Chef Fantasy 11
+All of Chef's friends are playing fantasy cricket based upon the ODI World Cup, and Chef would like to join them.
+
+For a certain cricket match, Chef has decided upon his team of 11 players. However, he hasn't yet decided who should be the captain and who should be the vice-captain.
+
+He's narrowed his decision down to N players out of the 11, from which he'll choose one to be the captain and one to be the vice captain.
+How many different choices does he have?
