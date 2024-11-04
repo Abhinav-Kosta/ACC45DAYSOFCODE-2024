@@ -423,3 +423,13 @@ The Siruseri Sports Club organises an annual billiards game where the top two pl
 
 Prime Generator
 Ram wants to generate some prime numbers for his cryptosystem. Help him please! Your task is to generate all prime numbers between two given numbers.
+
+DAY 33:
+Good Program
+In computing, the collection of four bits is called a nibble.
+
+Chef defines a program as:
+
+Good, if it takes exactly X nibbles of memory, where X is a positive integer.
+Not Good, otherwise.
+Given a program which takes N bits of memory, determine whether it is Good or Not Good.
