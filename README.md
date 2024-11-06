@@ -441,3 +441,11 @@ Chef is playing a variant of Blackjack, where 3 numbers are drawn and each numbe
 Given the first two numbers A and B, that have been drawn by Chef, what should be 3-rd number that should be drawn by the Chef in order to win the game?
 
 Note that it is possible that Chef cannot win the game, no matter what is the 3-rd number. In such cases, report −1 as the answer.
+
+DAY 35:
+Qualify the round
+In a coding contest, there are two types of problems:
+
+Easy problems, which are worth 1 point each
+Hard problems, which are worth 2 points each
+To qualify for the next round, a contestant must score at least X points. Chef solved A Easy problems and B Hard problems. Will Chef qualify or not?
