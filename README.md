@@ -449,3 +449,14 @@ In a coding contest, there are two types of problems:
 Easy problems, which are worth 1 point each
 Hard problems, which are worth 2 points each
 To qualify for the next round, a contestant must score at least X points. Chef solved A Easy problems and B Hard problems. Will Chef qualify or not?
+
+DAY 36:
+Dracula Eats
+Eat, drink, and be scary
+
+There are N spooky days left until Halloween.
+Dracula dines at a mysterious restaurant that changes its spooky menu daily. He particularly enjoys what they serve on Tuesday.
+
+Today is Monday, so he wishes to calculate how many times he can indulge in his favourite menu in the next N days (including today) before Halloween.
+
+Note that Dracula follows the standard 7-day calendar, with Tuesday immediately following Monday.
