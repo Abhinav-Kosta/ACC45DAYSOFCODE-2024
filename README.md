@@ -460,3 +460,11 @@ Dracula dines at a mysterious restaurant that changes its spooky menu daily. He 
 Today is Monday, so he wishes to calculate how many times he can indulge in his favourite menu in the next N days (including today) before Halloween.
 
 Note that Dracula follows the standard 7-day calendar, with Tuesday immediately following Monday.
+
+DAY 37:
+Minimum number of Flips
+Chef has an array A of length N consisting of 1 and −1 only.
+
+In one operation, Chef can choose any index i (1≤i≤N) and multiply the element Ai by −1.
+
+Find the minimum number of operations required to make the sum of the array equal to 0. Output -1 if the sum of the array cannot be made 0.
