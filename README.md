@@ -483,3 +483,9 @@ The organizers want to find the total time the event will take to complete. It i
 For example, consider a case when N=4, A=10 and B=5. The first round will consist of two matches and will take 10 minutes to complete. Two teams move on to round 2 and the other two get eliminated. Then there is a break of 5 minutes. The two remaining teams compete in round 2, which lasts 10 more minutes. The team that wins is declared the overall winner. Thus the total time taken is 10+5+10=25 minutes.
 
 Can you help the organizers determine how long the event will take to finish?
+
+Day 39:
+Cyclic Quadrilateral
+You are given the sizes of angles of a simple quadrilateral (in degrees) A, B, C and D, in some order along its perimeter. Determine whether the quadrilateral is cyclic.
+
+Note: A quadrilateral is cyclic if and only if the sum of opposite angles is 180∘.
