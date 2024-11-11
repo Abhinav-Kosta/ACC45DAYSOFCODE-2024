@@ -489,3 +489,13 @@ Cyclic Quadrilateral
 You are given the sizes of angles of a simple quadrilateral (in degrees) A, B, C and D, in some order along its perimeter. Determine whether the quadrilateral is cyclic.
 
 Note: A quadrilateral is cyclic if and only if the sum of opposite angles is 180∘.
+
+DAY 40:
+Watching Movies at 2x
+Chef started watching a movie that runs for a total of X minutes.
+
+Chef has decided to watch the first Y minutes of the movie at twice the usual speed as he was warned by his friends that the movie gets interesting only after the first Y minutes.
+
+How long will Chef spend watching the movie in total?
+
+Note: It is guaranteed that Y is even.
