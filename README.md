@@ -515,3 +515,13 @@ For e.g. if Chef bought 3 items with the cost 6, 2 and 4, then he would get the 
 6+4=10.
 
 Chef buys 3 items having prices A, B and C respectively. What is the amount of money Chef needs to pay?
+
+DAY 43:
+Pass or Fail
+Chef is struggling to pass a certain college course.
+
+The test has a total of N questions, each question carries 3 marks for a correct answer and −1 for an incorrect answer. Chef is a risk-averse person so he decided to attempt all the questions. It is known that Chef got 
+X questions correct and the rest of them incorrect. For Chef to pass the course he must score at least 
+P marks.
+
+Will Chef be able to pass the exam or not?
