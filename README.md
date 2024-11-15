@@ -525,3 +525,12 @@ X questions correct and the rest of them incorrect. For Chef to pass the course 
 P marks.
 
 Will Chef be able to pass the exam or not?
+
+DAY 44:
+Chef Eren
+Chef is a very big fan of Eren Yeager.
+
+In the last season of Attack on Titan, there were N episodes numbered from 1 to N.
+Each even indexed episode was A minutes long and each odd indexed episode was B minutes long.
+
+Calculate the total duration (in minutes) of the last season.
