@@ -534,3 +534,11 @@ In the last season of Attack on Titan, there were N episodes numbered from 1 to 
 Each even indexed episode was A minutes long and each odd indexed episode was B minutes long.
 
 Calculate the total duration (in minutes) of the last season.
+
+DAY 45:
+Presents for Cheffina
+Chef has fallen in love with Cheffina, and wants to buy N gifts for her. On reaching the gift shop, Chef got to know the following two things:
+
+The cost of each gift is 1 coin.
+On the purchase of every 4th gift, Chef gets the 5 th gift free of cost.
+What is the minimum number of coins that Chef will require in order to come out of the shop carrying N gifts?
